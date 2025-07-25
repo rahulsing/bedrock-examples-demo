@@ -1,6 +1,11 @@
 ## Bedrock AgentCore Memory
 To demo each of this feature we will be using Streamlit app. 
 
+## To run the demo: 
+Navigate to the folder and run the below : 
+```
+streamlit run appy.py
+``` 
 #### 1. No Memory Agent
 To demo the problem of Simple Agent without memory.
 
